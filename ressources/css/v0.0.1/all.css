@@ -53,3 +53,11 @@
 .bolder {
     font-weight: bolder;
 }
+
+.width-100 {
+    width: 100%;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+}
