@@ -21,10 +21,35 @@
 .align-center {
     align-items: center;
 }
+.align-start {
+    align-items: start;
+}
+.align-end {
+    align-items: end;
+}
+
 .justify-center {
     justify-content: center;
 }
 
 .justify-between {
     justify-content: space-between;
+}
+
+.justify-evenly {
+    justify-content: space-evenly;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+
+
+.bold {
+    font-weight: bold;
+}
+
+.bolder {
+    font-weight: bolder;
 }
