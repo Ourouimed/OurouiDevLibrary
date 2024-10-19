@@ -61,3 +61,17 @@
     position: fixed;
     top: 0;
 }
+
+/* Social icons Fontawesome before and after */
+.social::before , .social::after {
+    font-family: 'fontawesome';
+}
+
+.github-before::before {
+    content : "\f09b"
+}
+
+
+.github-after::after {
+    content : "\f09b"
+}
